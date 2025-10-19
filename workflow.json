@@ -1,0 +1,33 @@
+{
+    "name": "Creating a website",
+    "steps": [
+        {
+            "name": "Requirements Gathering",
+            "action": "Gathering all the requirements from the stakeholders.",
+            "type": "none"
+        },
+        {
+            "name": "Design",
+            "action": "Creating a design for the website in Figma.",
+            "type": "preparation"
+        },
+        {
+            "name": "Development Phase 1: Frontend Development",
+            "action": "Writing HTML, CSS and JS code for the frontend of the website.",
+            "type": "development",
+            "endgoal": "Frontend Interface"
+        },
+        {
+            "name": "Development Phase 2: Backend Development",
+            "action": "Setting up server, database and APIs for the backend of the website.",
+            "type": "development",
+            "endgoal": "Backend API"
+        },
+        {
+            "name": "Development Phase 3: Deployment",
+            "action": "Deploying the website on a hosting platform.",
+            "type": "development",
+            "endgoal": "Deployed Website"
+        }
+    ]
+}

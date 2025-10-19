@@ -1,0 +1,10 @@
+1: {'step': 'Requirements Gathering', 'status': 'started'}
+2: {'step': 'Requirements Gathering', 'status': 'completed'}
+3: {'step': 'Design', 'status': 'preparation started'}
+4: {'step': 'Design', 'status': 'preparation completed'}
+5: {'step': 'Development Phase 1: Frontend Development', 'status': 'development started'}
+6: {'step': 'Development Phase 1: Frontend Development', 'status': 'development completed'}
+7: {'step': 'Development Phase 2: Backend Development', 'status': 'development started'}
+8: {'step': 'Development Phase 2: Backend Development', 'status': 'development completed'}
+9: {'step': 'Development Phase 3: Deployment', 'status': 'development started'}
+10: {'step': 'Development Phase 3: Deployment', 'status': 'development completed'}
